@@ -23,3 +23,10 @@ URL do curso -> [JavaScript - Arrays](https://cursos.alura.com.br/course/fundame
 * Remover e incluir novos elementos em um array com `splice()`.
 * Concatenar elementos em um único array com `concat()`.
 * Trabalhar com arrays de duas dimensões.
+
+***
+
+## 03 - Laços de Repetição &#x1F516;
+* Utilizar mais métodos, tais quais `indexOf()` e `includes()` para percorrer arrays e comparar resultados.
+* Utilizar a estrutura `for` e entender seu funcionamento.
+* Substituir o `for` por métodos de array mais modernos do JavaScript, como `forEach()`.
