@@ -35,3 +35,8 @@ URL do curso -> [JavaScript - Arrays](https://cursos.alura.com.br/course/fundame
 
 ## 04 - Métodos Callback &#x1F516;
 * Mais detalhes sobre como trabalhar com métodos callback, como o `map()` para percorrer arrays.
+
+***
+
+## 05 - Mais Métodos de Array &#x1F516;
+* Mais práticas para resolver problemas com arrays utilizando os métodos callback `filter()` e `reduce()`.
